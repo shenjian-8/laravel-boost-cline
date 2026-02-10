@@ -7,7 +7,7 @@ A Cline agent integration for Laravel Boost that provides MCP (Model Context Pro
 You can install the package via Composer:
 
 ```bash
-composer require laravel-boost/cline
+composer require laravel-boost/cline:@dev
 ```
 
 The package will automatically register its service provider through Laravel's package discovery mechanism.
