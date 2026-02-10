@@ -38,7 +38,7 @@ php artisan vendor:publish --provider="Laravel\BoostCline\ClineServiceProvider" 
 
 ## Requirements
 
-- Laravel 10.x, 11.x, or 12.x
+- Laravel 12.x
 - PHP 8.1+
 - Laravel Boost package
 - CLINE extension installed in VS Code
