@@ -34,7 +34,5 @@
                 "Laravel\\BoostCline\\ClineServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
